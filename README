@@ -1,6 +1,5 @@
 # Basic-Java
-```java
-
+```
 import java.util.Scanner;
 class Main
 {
@@ -29,5 +28,4 @@ class Main
 	   System.out.println(num + " is not a Prime Number");
    }
 }
-
 ```
